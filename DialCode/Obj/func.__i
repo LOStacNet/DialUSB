@@ -1,0 +1,1 @@
+"Code\func.c" WARNINGLEVEL (0) OPTIMIZE (8,SPEED) BROWSE INCDIR(.\Code\Public) DEBUG OBJECTEXTEND PRINT(.\Lst\func.lst) TABS (2) OBJECT(.\Obj\func.obj)

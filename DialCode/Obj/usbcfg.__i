@@ -1,0 +1,1 @@
+"Code\usbcfg.c" WARNINGLEVEL (0) OPTIMIZE (8,SPEED) BROWSE INCDIR(.\Code\Public) DEBUG OBJECTEXTEND PRINT(.\Lst\usbcfg.lst) TABS (2) OBJECT(.\Obj\usbcfg.obj)
